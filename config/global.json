@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "DiageoHack": {
+            "applicationId": "APPLICATION_ID", 
+            "masterKey": "MASTER_KEY"
+        }, 
+        "_default": {
+            "link": "DiageoHack"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.1"
+    }
+}
